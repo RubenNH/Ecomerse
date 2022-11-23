@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ECommerce</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contrasenya</string>
+    <string name="create">crear</string>
+    <string name="repeat">repetir</string>
+    <string name="dataNotAllowed">Data are Obligatory</string>
+    <string name="createAccount">Create Account</string>
+    <string name="exit">exit</string>
+    <string name="anon">anonimo</string>
+    <string name="profile">perfil</string>
+</resources>

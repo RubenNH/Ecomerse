@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ECommerce</string>
+    <string name="login">Connexion</string>
+    <string name="email">e-mail</string>
+    <string name="password">le mot de passe</string>
+    <string name="create">create le mot de passe</string>
+    <string name="repeat">repea le mot de passet</string>
+    <string name="dataNotAllowed">Data are Obligatory</string>
+    <string name="createAccount">Create Account</string>
+    <string name="exit">exit</string>
+    <string name="anon">anonyme</string>
+    <string name="profile">profil</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515982490390",
+    "project_id": "ecommerce-21cac",
+    "storage_bucket": "ecommerce-21cac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515982490390:android:a6f85c06ef7882a9922e37",
+        "android_client_info": {
+          "package_name": "mx.edu.utez.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515982490390-fcicu18olo0vbt3teh30nge36m9qtlhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa4msRrYPBLJP_kWiasi5TusdROfWcEqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515982490390-fcicu18olo0vbt3teh30nge36m9qtlhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create">create</string>
+    <string name="repeat">repeat</string>
+    <string name="dataNotAllowed">Data are Obligatory</string>
+    <string name="createAccount">Create Account</string>
+    <string name="exit">exit</string>
+    <string name="anon">anonymous</string>
+    <string name="profile">Profile}</string>
+</resources>
